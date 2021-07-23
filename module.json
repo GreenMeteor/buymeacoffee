@@ -1,0 +1,19 @@
+{
+    "id": "buymeacoffee",
+    "version": "1.0.0",
+    "name": "Buy Me a Coffee",
+    "description": "Add your Buy Me a Coffee button to your HumHub installation.",
+    "humhub": {
+        "minVersion": "1.5"
+    },
+    "keywords": ["buymeacoffee", "module"],
+    "screenshots": ["resources/Screenshot_1.png", "resources/Screenshot_2.png"],
+    "authors": [
+        {
+            "name": "Green Meteor",
+            "email": "realgreenmeteor@gmail.com",
+            "homepage": "https://github.com/GreenMeteor",
+            "role": "Owner"
+        }
+    ]
+}

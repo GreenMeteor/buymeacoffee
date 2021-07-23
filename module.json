@@ -7,7 +7,6 @@
         "minVersion": "1.5"
     },
     "keywords": ["buymeacoffee", "module"],
-    "screenshots": ["resources/Screenshot_1.png", "resources/Screenshot_2.png"],
     "authors": [
         {
             "name": "Green Meteor",

@@ -7,6 +7,8 @@
         "minVersion": "1.5"
     },
     "keywords": ["buymeacoffee", "module"],
+    "screenshots": ["assets/screen_1.png", "assets/screen_2.png"],
+    "homepage": "https://greenmeteor.net",
     "authors": [
         {
             "name": "Green Meteor",

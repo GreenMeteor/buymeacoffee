@@ -7,7 +7,7 @@
         "minVersion": "1.5"
     },
     "keywords": ["buymeacoffee", "module"],
-    "screenshots": ["assets/screen_1.png", "assets/screen_2.png", "assets/screen_3.png"],
+    "screenshots": ["resources/screen_1.png", "resources/screen_2.png", "resources/screen_3.png"],
     "homepage": "https://greenmeteor.net",
     "authors": [
         {
